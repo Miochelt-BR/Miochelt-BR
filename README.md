@@ -29,7 +29,7 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wa
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Thiago-MIOCHELT-BR&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
 
 
