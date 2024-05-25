@@ -1,8 +1,8 @@
 # 🌌 Bem-vindo ao meu Perfil no GitHub!
 
-![Star Wars](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Star Wars](https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif)
 
-## Olá, eu sou [Seu Nome]!
+## Olá, eu sou Thiago michel ariça!
 
 🌌 *"Em uma galáxia muito, muito distante..."*
 
@@ -28,12 +28,6 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wa
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Thiago-MIOCHELT-BR&show_icons=true&theme=dark)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
-
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark)
 
 ### Vamos nos conectar!
 
