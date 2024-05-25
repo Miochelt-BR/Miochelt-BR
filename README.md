@@ -40,4 +40,4 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wa
 
 ## Que a Força esteja com você!
 
-![Jedi](https://media.giphy.com/media/lXiRKBj0SAA0EWvbG/giphy.gif)
+![Jedi](https://th.bing.com/th/id/R.01b2ecf2b9fb20ed40b761164207d3b4?rik=DVAhaky%2bMS0T%2fw&pid=ImgRaw&r=0)
