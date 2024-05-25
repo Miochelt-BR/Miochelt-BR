@@ -27,6 +27,8 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wa
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MIOCHELT-BR&layout=compact&theme=dark)
 
 
 ### Vamos nos conectar!
