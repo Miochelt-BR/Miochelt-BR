@@ -1,5 +1,4 @@
 # 🌌 Bem-vindo ao meu Perfil no GitHub!
-
 ![Star Wars](https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif)
 
 ## Olá, eu sou Thiago michel ariça!
