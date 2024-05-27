@@ -1,5 +1,4 @@
-#<h1><span style="color🐈‍⬛;">🌌 Bem-vindo ao meu GitHub!</span></h1>
-![Avatar](2.jpg)
+#🌌 Bem-vindo ao meu GitHub!
 
 ## Olá, eu sou Thiago michel ariça!
 
