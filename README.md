@@ -1,5 +1,5 @@
 # 🌌 Bem-vindo ao meu Perfil no GitHub!
-![Star Wars](https://drive.google.com/file/d/1WPW8jiqnXE3h9JRIHEeRHqGpqoP2GHpH/view?usp=sharing)
+![Star Wars](2.jpg)
 
 ## Olá, eu sou Thiago michel ariça!
 
