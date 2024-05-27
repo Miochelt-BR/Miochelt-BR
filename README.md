@@ -1,4 +1,4 @@
-# 🌌 Bem-vindo ao meu Perfil no GitHub!
+# 🌌 Bem-vindo ao meu  GitHub!
 ![Avatar](2.jpg)
 
 ## Olá, eu sou Thiago michel ariça!
