@@ -1,4 +1,5 @@
-#🌌 Bem-vindo ao meu GitHub!
+# 🌌 Bem-vindo ao meu GitHub!
+![Avatar](C:\Users\Thiago\Desktop\Miochelt-BR\2.jpg)
 
 ## Olá, eu sou Thiago michel ariça!
 
@@ -32,7 +33,6 @@ Eu sou um desenvolvedor full stack apaixonado por tecnologia e pela saga Star Wa
 ### Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/thiago-michel-ari%C3%A7a-pcd-7a8027163/)
-[![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:Thiago.arica@outlook.com)
 
 
 ## Que a Força esteja com você!
