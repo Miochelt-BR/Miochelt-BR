@@ -1,5 +1,5 @@
 # 🌌 Bem-vindo ao meu GitHub!
-![Avatar](2.jpg)
+![Avatar](Avatar.jpeg)
 
 ## Olá, eu sou Thiago michel ariça!
 
