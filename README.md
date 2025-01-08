@@ -48,7 +48,10 @@ Diferenciais incluem capacidade analítica, visão estratégica e habilidades in
 
 ### Vamos nos conectar!
 
-[![LinkedIn](https://www.linkedin.com/in/thiago-ari%C3%A7a/)
+## 🌟 Conecte-se comigo no LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ari%C3%A7a/)
+
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:thiago.arica@outlook.com)
 
 ## Que a Força esteja com você!
