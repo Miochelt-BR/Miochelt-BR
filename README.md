@@ -28,17 +28,18 @@ Diferenciais incluem capacidade analítica, visão estratégica e habilidades in
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?style=flat-square&logo=springboot)
-![Hibernate](https://img.shields.io/badge/Hibernate-black?style=flat-square&logo=hibernate)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-black?style=flat-square&logo=rest)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=flat-square&logo=springboot)  
+![Hibernate](https://img.shields.io/badge/Hibernate-darkblue?style=flat-square&logo=hibernate)  
+![REST APIs](https://img.shields.io/badge/REST%20APIs-blue?style=flat-square&logo=rest)  
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
 
 ### Automação
 
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-black?style=flat-square&logo=robotframework)  
-![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress)  
-![Playwright](https://img.shields.io/badge/Playwright-black?style=flat-square&logo=playwright)  
-![Selenium](https://img.shields.io/badge/Selenium-black?style=flat-square&logo=selenium)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-red?style=flat-square&logo=robotframework)  
+![Cypress](https://img.shields.io/badge/Cypress-green?style=flat-square&logo=cypress)  
+![Playwright](https://img.shields.io/badge/Playwright-purple?style=flat-square&logo=playwright)  
+![Selenium](https://img.shields.io/badge/Selenium-lightblue?style=flat-square&logo=selenium)
 
 ### Database
 
