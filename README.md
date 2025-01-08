@@ -53,4 +53,4 @@ Diferenciais incluem capacidade analítica, visão estratégica e habilidades in
 
 ## Que a Força esteja com você!
 
-![Jedi](https://media.giphy.com/media/l0HlylXCIy4leOcpq/giphy.gif)
+![Jedi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl1dnltbjQwM2F4OTNieXBnc2RmbjlmOHZ0M2luY29hNmx6ODZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbhpmm36XnLSU/giphy.webp)
