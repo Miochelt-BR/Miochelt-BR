@@ -22,24 +22,24 @@ Diferenciais incluem capacidade analítica, visão estratégica e habilidades in
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen?style=flat-square&logo=springboot)  
-![Hibernate](https://img.shields.io/badge/Hibernate-darkblue?style=flat-square&logo=hibernate)  
-![REST APIs](https://img.shields.io/badge/REST%20APIs-blue?style=flat-square&logo=rest)  
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat-square&logo=node.js)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=flat-square&logo=springboot&logoColor=white)  
+![Hibernate](https://img.shields.io/badge/Hibernate-lightyellow?style=flat-square&logo=hibernate&logoColor=black)  
+![REST APIs](https://img.shields.io/badge/REST%20APIs-lightblue?style=flat-square&logo=rest&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=flat-square&logo=node.js&logoColor=white)
 
 ### Automação
 
-![Robot Framework](https://img.shields.io/badge/Robot%20Framework-red?style=flat-square&logo=robotframework)  
-![Cypress](https://img.shields.io/badge/Cypress-green?style=flat-square&logo=cypress)  
-![Playwright](https://img.shields.io/badge/Playwright-purple?style=flat-square&logo=playwright)  
-![Selenium](https://img.shields.io/badge/Selenium-lightblue?style=flat-square&logo=selenium)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-darkred?style=flat-square&logo=robotframework&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress&logoColor=white)  
+![Playwright](https://img.shields.io/badge/Playwright-purple?style=flat-square&logo=microsoft&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-green?style=flat-square&logo=selenium&logoColor=white)
 
 ### Database
 
