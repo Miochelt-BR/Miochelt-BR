@@ -1,7 +1,6 @@
 # 🌌 Bem-vindo ao meu GitHub!
 
-[ChatGPT Image 3 de abr  de 2025, 16_49_48](https://github.com/user-attachments/assets/a15ba65a-6571-45a2-8c0a-0ecebaf6dc0a)
-
+![Meu Avatar](https://github.com/user-attachments/assets/84819f2b-1c30-400b-9df2-bf0306930c19)
 
 ## Olá, eu sou Thiago michel ariça!
 
@@ -44,7 +43,7 @@ Diferenciais incluem capacidade analítica, visão estratégica e habilidades in
 
 ### Database
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=dark)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MIOCHELT-BR&layout=compact&theme=dark)
 
 ### Vamos nos conectar!
@@ -57,6 +56,5 @@ Diferenciais incluem capacidade analítica, visão estratégica e habilidades in
 
 ## Que a Força esteja com você!
 
-![Jedi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl1dnltbjQwM2F4OTNieXBnc2RmbjlmOHZ0M2luY29hNmx6ODZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbhpmm36XnLSU/giphy.webp)
-
+![Jedi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl1dnltbjQwM2F4OTNieXBnc2RmbjlmOHZ0M2luY29hNmx6ODZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbhpmm36XnLSU/giphy.webp)  
 ![Jedi](https://media2.giphy.com/media/I6l7Kwu0GLvAA/200.webp?cid=ecf05e475svq555t895jmw1w7hm673rkbr23uryih8hfmi9p&ep=v1_gifs_related&rid=200.webp&ct=g)
