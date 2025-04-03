@@ -1,6 +1,7 @@
 # 🌌 Bem-vindo ao meu GitHub!
 
-![Avatar](Avatar.jpeg)
+![Avatar]()![ChatGPT Image 3 de abr  de 2025, 16_49_48](https://github.com/user-attachments/assets/a15ba65a-6571-45a2-8c0a-0ecebaf6dc0a)
+
 
 ## Olá, eu sou Thiago michel ariça!
 
