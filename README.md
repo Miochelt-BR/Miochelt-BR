@@ -6,9 +6,9 @@
 
 🌌 _"Em uma galáxia muito, muito distante..."_
 
-Sou **PCD e profissional de tecnologia**, apaixonado por **qualidade de software** com forte base técnica em desenvolvimento e automação de testes. Graduado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **MBA em Gestão da Qualidade e Processos**, busco unir visão estratégica e excelência técnica.
+Sou **PCD e profissional de tecnologia**, apaixonado por **qualidade de software**, com sólida base técnica em desenvolvimento e automação de testes. Graduado em **Análise e Desenvolvimento de Sistemas**, pós-graduado em **Gestão de Projetos** com foco em **Scrum** e melhoria contínua.
 
-Tenho experiência com ferramentas como **Robot Framework**, **Cypress** e **Playwright**, além de domínio em linguagens e frameworks como **Java**, **Spring Boot**, **HTML**, **CSS** e **JavaScript**. Atuo em todo o ciclo de desenvolvimento e qualidade, desde a criação e consumo de **APIs RESTful**, automação de processos repetitivos até a validação de aplicações robustas e escaláveis.
+Tenho experiência com ferramentas como **Robot Framework**, **Cypress**, **Playwright** e **ServiceNow**, além de domínio em linguagens e frameworks como **Java**, **Spring Boot**, **HTML**, **CSS** e **JavaScript**. Atuo em todo o ciclo de desenvolvimento e qualidade, desde a criação e consumo de **APIs RESTful**, automação de processos repetitivos até a validação de aplicações robustas e escaláveis.
 
 Com vivência em bancos de dados relacionais, aplico técnicas avançadas para garantir a integridade, performance e confiabilidade dos sistemas testados.
 
@@ -16,7 +16,7 @@ Com vivência em bancos de dados relacionais, aplico técnicas avançadas para g
 
 ## 💼 Experiência Profissional
 
-Atuei em empresas como **Mercado Livre** e **Thomson Reuters**, contribuindo para o desenvolvimento de soluções inovadoras, escaláveis e seguras. Atualmente, foco na implementação de estratégias de automação de testes, promovendo **qualidade, eficiência e confiabilidade** nas entregas de software.
+Atuei em empresas como **Mercado Livre** e **Thomson Reuters**, contribuindo para o desenvolvimento de soluções inovadoras, escaláveis e seguras. Atualmente, foco na implementação de estratégias de automação de testes e qualidade de software, promovendo **eficiência, confiabilidade e valor de negócio** nas entregas.
 
 ---
 
@@ -26,6 +26,7 @@ Atuei em empresas como **Mercado Livre** e **Thomson Reuters**, contribuindo par
 - Visão estratégica de processos e qualidade
 - Comunicação clara com stakeholders técnicos e de negócio
 - Condução de projetos com impacto organizacional
+- Atuação com metodologias ágeis e gestão de projetos (Scrum)
 
 ---
 
@@ -48,6 +49,7 @@ Atuei em empresas como **Mercado Livre** e **Thomson Reuters**, contribuindo par
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=flat-square&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-purple?style=flat-square&logo=microsoft&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-green?style=flat-square&logo=selenium&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-darkgray?style=flat-square&logo=servicenow&logoColor=white)
 
 ---
 
@@ -62,6 +64,14 @@ Atuei em empresas como **Mercado Livre** e **Thomson Reuters**, contribuindo par
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ari%C3%A7a/)
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:thiago.arica@outlook.com)
+
+---
+
+## ✨ Que a Força esteja com você!
+
+![Jedi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl1dnltbjQwM2F4OTNieXBnc2RmbjlmOHZ0M2luY29hNmx6ODZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbhpmm36XnLSU/giphy.webp)
+![Jedi](https://media2.giphy.com/media/I6l7Kwu0GLvAA/200.webp?cid=ecf05e475svq555t895jmw1w7hm673rkbr23uryih8hfmi9p&ep=v1_gifs_related&rid=200.webp&ct=g)
+
 
 ---
 
