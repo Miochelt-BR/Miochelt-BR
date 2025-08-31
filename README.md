@@ -1,25 +1,31 @@
 # 🌌 Bem-vindo ao meu GitHub!
 
-![Meu Avatar](<img width="1024" height="1024" alt="jpeg (4)" src="https://github.com/user-attachments/assets/3c5229c0-bf09-4a2c-92df-c3e8c047c88e" />
-)
+![Meu Avatar](./UploadedImage0.jpg)
 
-## Olá, eu sou Thiago michel ariça!
+## 👋 Olá, eu sou Thiago Michel Ariça!
 
 🌌 _"Em uma galáxia muito, muito distante..."_
 
-Thiago Michel Ariça PCD Profissional de tecnologia com foco em qualidade de software com base técnica em desenvolvimento e automação de testes, graduado em análise e desenvolvimento de sistemas e cursando MBA em gestão de qualidade e processos.
+Sou **PCD e profissional de tecnologia**, com foco em **qualidade de software**, base técnica em desenvolvimento e automação de testes. Graduado em **Análise e Desenvolvimento de Sistemas** e atualmente cursando **MBA em Gestão da Qualidade e Processos**.
 
-Possui Experiência em ferramentas como Robot Framework, Cypress, e Playwright, além de amplo conhecimento em linguagens e frameworks de desenvolvimento, como Java, Spring Boot, HTML, CSS, e JavaScript. Possui experiência prática no ciclo completo de desenvolvimento e qualidade, incluindo criação e consumo de APIs RESTful, automação de processos repetitivos, e validação de aplicações robustas e escaláveis. Com vivência em bancos de dados relacionais, utiliza técnicas avançadas para garantir a integridade e eficiência dos sistemas testados.
+Tenho experiência com ferramentas como **Robot Framework**, **Cypress** e **Playwright**, além de amplo conhecimento em linguagens e frameworks como **Java**, **Spring Boot**, **HTML**, **CSS** e **JavaScript**. Atuo em todo o ciclo de desenvolvimento e qualidade, incluindo criação e consumo de **APIs RESTful**, automação de processos repetitivos e validação de aplicações robustas e escaláveis.
 
-No âmbito corporativo, atuou em empresas renomadas como Mercado Livre e Thomson Reuters, contribuindo para o desenvolvimento de soluções inovadoras, escaláveis e seguras. Atualmente, dedico-me à implementação de estratégias de automação de testes, com foco em garantir qualidade, eficiência e confiabilidade em entregas de software.
+Com vivência em bancos de dados relacionais, aplico técnicas avançadas para garantir a integridade e eficiência dos sistemas testados.
 
-Diferenciais incluem capacidade analítica, visão estratégica e habilidades interpessoais que permitem a condução de projetos com alto impacto organizacional.
+### 💼 Experiência Corporativa
 
-- 💻 Desenvolvedor Full Stack em Java
-- 🚀 Amante de Star Wars
-- 🌟 Sempre aprendendo novas tecnologias
+Atuei em empresas como **Mercado Livre** e **Thomson Reuters**, contribuindo para soluções inovadoras, escaláveis e seguras. Atualmente, foco na implementação de estratégias de automação de testes, buscando **qualidade, eficiência e confiabilidade** nas entregas de software.
 
-## Tecnologias que eu uso:
+### 🌟 Meus diferenciais:
+
+- Capacidade analítica
+- Visão estratégica
+- Habilidades interpessoais
+- Condução de projetos com alto impacto organizacional
+
+---
+
+## 🚀 Tecnologias que eu uso:
 
 ### Frontend
 
@@ -47,15 +53,16 @@ Diferenciais incluem capacidade analítica, visão estratégica e habilidades in
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=dark)  
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MIOCHELT-BR&layout=compact&theme=dark)
 
-### Vamos nos conectar!
+---
 
-## 🌟 Conecte-se comigo no LinkedIn:
+## 🌐 Vamos nos conectar!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ari%C3%A7a/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ari%C3%A7a/)  
 [![Email](https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail)](mailto:thiago.arica@outlook.com)
 
-## Que a Força esteja com você!
+---
+
+## ✨ Que a Força esteja com você!
 
 ![Jedi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl1dnltbjQwM2F4OTNieXBnc2RmbjlmOHZ0M2luY29hNmx6ODZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbhpmm36XnLSU/giphy.webp)  
 ![Jedi](https://media2.giphy.com/media/I6l7Kwu0GLvAA/200.webp?cid=ecf05e475svq555t895jmw1w7hm673rkbr23uryih8hfmi9p&ep=v1_gifs_related&rid=200.webp&ct=g)
