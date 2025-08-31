@@ -1,6 +1,7 @@
 # 🌌 Bem-vindo ao meu GitHub!
 
-![Meu Avatar](https://github.com/user-attachments/assets/84819f2b-1c30-400b-9df2-bf0306930c19)
+![Meu Avatar](<img width="1024" height="1024" alt="jpeg (4)" src="https://github.com/user-attachments/assets/3c5229c0-bf09-4a2c-92df-c3e8c047c88e" />
+)
 
 ## Olá, eu sou Thiago michel ariça!
 
