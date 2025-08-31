@@ -78,4 +78,4 @@ Atuei em empresas como **Mercado Livre** e **Thomson Reuters**, contribuindo par
 ## ✨ Que a Força esteja com você!
 
 ![Jedi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl1dnltbjQwM2F4OTNieXBnc2RmbjlmOHZ0M2luY29hNmx6ODZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cbhpmm36XnLSU/giphy.webp)
-![Jedi](https://media2.giphy.com/media/I6l7Kwu0GLvAA/200.webp?cid=ecf05e475svq555t895jmw1w7hm673rkbr23uryih8hfmi9p&ep=v1_gifs_related&rid=200.webp&ct=g)
+
