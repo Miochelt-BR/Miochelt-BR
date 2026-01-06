@@ -4,47 +4,45 @@
 ### SDET | QA Automation Engineer | Test Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MIOCHELT-BR&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/MIOCHELT-BR?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/MIOCHELT-BR?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/MIOCHELT-BR?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MIOCHELT-BR?style=for-the-badge)
 
 <img src="./jpeg%20(5).jpeg" width="160" style="border-radius:50%" />
 
-🧪 **Automação como código** · ⚙️ **Qualidade escalável** · 🚀 **Entrega confiável**
+🧪 **Automation as Code** · ⚙️ **Quality at Scale** · 🚀 **Reliable Delivery**
 
 </div>
 
 ---
 
-## 🧠 Sobre mim (SDET mindset)
+## 🧠 About me — SDET Mindset
 
-Sou **SDET / QA Automation Engineer**, com forte base em **engenharia de software**, atuando na criação de **estratégias de testes automatizados**, frameworks e pipelines de qualidade integrados ao desenvolvimento.
+Sou **SDET / QA Automation Engineer**, com forte base em **engenharia de software**, focado em **automação de testes, arquitetura de qualidade e pipelines CI/CD**.
 
 Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Gestão de Projetos**, atuo garantindo qualidade **desde o design até a produção**, com foco em **performance, confiabilidade e escalabilidade**.
 
-> 💡 *Qualidade não é fase final. É parte da arquitetura.*
+> 💡 *Quality is not a phase. It’s part of the architecture.*
 
 ---
 
-## 🧪 O que eu faço como SDET
+## 🧪 What I do as an SDET
 
-- Desenvolvimento de **frameworks de automação** (UI, API e E2E)
-- Testes automatizados com foco em **manutenibilidade**
+- Design e desenvolvimento de **frameworks de automação**
+- Testes automatizados **UI, API e E2E**
 - Escrita de cenários **BDD (Gherkin)**
 - Integração de testes em **CI/CD**
-- Testes de regressão, contrato e integração
+- Testes de regressão, integração e contrato
 - Validação de microsserviços e APIs REST
-- Estratégia de testes baseada em risco
-- Qualidade orientada a métricas
+- Qualidade orientada a **métricas e risco**
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
 ### 🟦 Capgemini
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Capgemini_201x_logo.svg" width="140"/>
+![Capgemini](https://img.shields.io/badge/Capgemini-SDET%20%7C%20QA%20Engineer-blue?style=for-the-badge)
 
-**SDET / QA Engineer** · Tempo integral · 🌍 Remoto  
-📅 jun/2025 – nov/2025  
+📅 jun/2025 – nov/2025 · 🌍 Remote  
 
 - QA em **Software Project Management (SPM)**
 - Automação e execução de testes funcionais e regressivos
@@ -52,57 +50,52 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Gest
 - Validação de fluxos **ITSM e ITOM**
 - Testes de integração entre sistemas
 - Gestão de defeitos baseada em impacto
-- Contribuição em métricas de qualidade
+- Apoio a métricas e melhoria contínua
 
 ---
 
 ### 🟩 Spread Tecnologia
-<img src="https://spread.com.br/wp-content/uploads/2022/06/logo-spread.svg" width="140"/>
+![Spread](https://img.shields.io/badge/Spread%20Tecnologia-SDET%20%7C%20Test%20Automation%20Architect-green?style=for-the-badge)
 
-**SDET / Test Automation Architect** · Tempo integral · 🌍 Remoto  
-📅 jan/2025 – mai/2025  
+📅 jan/2025 – mai/2025 · 🌍 Remote  
 
 - Arquitetura de **frameworks de automação**
 - Liderança técnica em qualidade
-- Integração de testes automatizados ao pipeline CI/CD
-- Definição de padrões, boas práticas e métricas
-- Redução de falhas em produção
-- Aumento da cobertura de testes automatizados
+- Integração de testes automatizados em **CI/CD**
+- Definição de padrões e boas práticas
+- Aumento de cobertura e redução de retrabalho
 
 ---
 
 ### 🟧 Pipoca Ágil (Voluntário)
-<img src="https://pipocaagil.com.br/wp-content/uploads/2023/05/logo-pipoca-agil.png" width="120"/>
+![PipocaAgil](https://img.shields.io/badge/Pipoca%20Ágil-QA%20Automation%20Engineer-orange?style=for-the-badge)
 
-**QA Automation Engineer** · Autônomo · 🌍 Remoto  
-📅 dez/2024 – mai/2025  
+📅 dez/2024 – mai/2025 · 🌍 Remote  
 
-- Automação e testes no app **Glicare**
-- Criação de planos e estratégias de teste
-- Testes manuais + automatizados
-- BDD com Gherkin
-- Participação ativa em Scrum e Kanban
+- QA voluntário no app **Glicare**
+- Planejamento e execução de testes
+- Testes manuais e automatizados
+- Escrita de cenários **BDD**
+- Atuação em **Scrum e Kanban**
 
 ---
 
 ### ⚫ Thomson Reuters
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Thomson_Reuters_logo.svg" width="160"/>
+![ThomsonReuters](https://img.shields.io/badge/Thomson%20Reuters-Software%20Engineer-black?style=for-the-badge)
 
-**Software Engineer (Java Backend)** · Tempo integral · 🌍 Remoto  
-📅 ago/2024 – nov/2024  
+📅 ago/2024 – nov/2024 · 🌍 Remote  
 
-- Desenvolvimento de APIs REST com **Java + Spring Boot**
+- Desenvolvimento backend com **Java + Spring Boot**
+- APIs REST para sistemas de folha de pagamento
 - Testes automatizados integrados ao desenvolvimento
-- Sistemas críticos de folha de pagamento
-- Garantia de qualidade e conformidade legal
+- Sistemas críticos e regulatórios
 
 ---
 
 ### 🟡 Mercado Livre
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/MercadoLibre_Logo.svg" width="160"/>
+![MercadoLivre](https://img.shields.io/badge/Mercado%20Livre-Software%20Developer-yellow?style=for-the-badge)
 
-**Software Developer** · Tempo integral · 🌍 Remoto  
-📅 out/2022 – fev/2024  
+📅 out/2022 – fev/2024 · 🌍 Remote  
 
 - Desenvolvimento backend com **Java**
 - APIs RESTful escaláveis
@@ -111,51 +104,51 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Gest
 
 ---
 
-## 🧰 Stack SDET / QA Automation
+## 🧰 SDET / QA Automation Stack
 
-### ⚙️ Linguagens & Backend
+### ⚙️ Languages & Backend
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=springboot)
 
-### 🧪 Testes & Automação
+### 🧪 Automation & Testing
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress)
 ![Playwright](https://img.shields.io/badge/Playwright-purple?style=for-the-badge&logo=microsoft)
 ![Robot Framework](https://img.shields.io/badge/Robot%20Framework-darkred?style=for-the-badge&logo=robotframework)
 ![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
 ![BDD](https://img.shields.io/badge/BDD-Gherkin-blue?style=for-the-badge)
 
-### 🔄 DevOps & Qualidade
-![CI/CD](https://img.shields.io/badge/CI%2FCD-gray?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST%20API-lightblue?style=for-the-badge)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-darkgray?style=for-the-badge&logo=servicenow)
-
 ---
 
-## 📊 Métricas GitHub
+## 📊 GitHub Metrics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MIOCHELT-BR&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=MIOCHELT-BR&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIOCHELT-BR&layout=compact&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=MIOCHELT-BR&theme=tokyonight)
 
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Ariça-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiago-ari%C3%A7a/)
-[![Email](https://img.shields.io/badge/Email-thiago.arica@outlook.com-black?style=for-the-badge&logo=gmail)](mailto:thiago.arica@outlook.com)
+[![Email](https://img.shields.io/badge/Email-thiagomichel164%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:thiagomichel164@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
+
+## ✨ Engineering Quality. Shipping Confidence.
+
+</div>
+
 
 ## ✨ Engineering Quality. Shipping Confidence.
 
