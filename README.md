@@ -131,21 +131,6 @@ Atuo garantindo qualidade **desde o design até a produção**, com foco em **pe
 
 ---
 
-## 📊 Métricas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIOCHELT-BR&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=MIOCHELT-BR&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
