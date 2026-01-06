@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🚀 Thiago Michel Ariça
-### SDET | QA Automation Engineer | Test Engineer
+# 🚀 Thiago Michel Ariça  
+## SDET | QA Automation Engineer | Test Engineer  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MIOCHELT-BR&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/MIOCHELT-BR?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/MIOCHELT-BR?style=for-the-badge)
 
-<img src="./jpeg%20(5).jpeg" width="160" style="border-radius:50%" />
+<img src="./jpeg (5).jpeg" width="170" style="border-radius:50%" />
 
-🧪 **Automação como Código** · ⚙️ **Qualidade em Escala** · 🚀 **Entrega Confiável**
+🧪 **Automação como Código** · ⚙️ **Qualidade Escalável** · 🚀 **Entrega Confiável**
 
 </div>
 
@@ -17,57 +17,67 @@
 
 ## 🧠 Sobre mim — Mentalidade SDET
 
-Sou **SDET / QA Automation Engineer**, com forte base em **engenharia de software**, atuando na construção de **qualidade desde o código até a produção**.
+Sou **SDET / QA Automation Engineer**, com forte base em **engenharia de software**, atuando na construção de **estratégias de qualidade**, **frameworks de automação** e **pipelines CI/CD** integrados ao desenvolvimento.
 
-Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Gestão de Projetos**, trabalho com foco em **automação de testes, arquitetura de qualidade, métricas e integração contínua**, garantindo **performance, confiabilidade e escalabilidade** dos sistemas.
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
+📚 Pós-graduado em **Gestão de Projetos**
 
-> 💡 *Qualidade não é uma fase. É parte da arquitetura.*
+Atuo garantindo qualidade **desde o design até a produção**, com foco em:
+
+- Confiabilidade
+- Escalabilidade
+- Performance
+- Redução de falhas em produção
+
+> 💡 *Qualidade não é uma etapa final. Ela faz parte da arquitetura.*
 
 ---
 
-## 🧪 O que faço como SDET
+## 🧪 O que eu faço como SDET
 
-- Design e desenvolvimento de **frameworks de automação**
-- Testes automatizados **UI, API e E2E**
-- Escrita de cenários **BDD (Gherkin)**
-- Integração de testes em **pipelines CI/CD**
-- Testes de regressão, integração e contrato
-- Validação de **APIs REST e microsserviços**
-- Qualidade orientada a **métricas, risco e impacto no negócio**
+✔️ Desenvolvimento de **frameworks de automação**  
+✔️ Testes automatizados **UI, API e E2E**  
+✔️ Escrita de cenários **BDD (Gherkin)**  
+✔️ Integração de testes em **CI/CD**  
+✔️ Testes de regressão, integração e contrato  
+✔️ Validação de **APIs REST e microsserviços**  
+✔️ Estratégia de testes baseada em **risco e métricas**  
+✔️ Qualidade orientada a **engenharia**
 
 ---
 
 ## 💼 Experiência Profissional
 
-### 🟦 Capgemini
+### 🟦 Capgemini  
 ![Capgemini](https://img.shields.io/badge/Capgemini-SDET%20%7C%20QA%20Engineer-blue?style=for-the-badge)
 
 📅 jun/2025 – nov/2025 · 🌍 Remoto  
 
-- Atuação em QA para **Software Project Management (SPM)**
+- Atuação em **Software Project Management (SPM)**
 - Automação e execução de testes funcionais e regressivos
-- Escrita e manutenção de cenários **BDD**
+- Escrita de cenários **BDD**
 - Validação de fluxos **ITSM e ITOM**
 - Testes de integração entre sistemas
-- Gestão de defeitos baseada em **impacto e criticidade**
-- Apoio a métricas de qualidade e melhoria contínua
+- Gestão de defeitos baseada em impacto
+- Apoio em métricas e melhoria contínua
 
 ---
 
-### 🟩 Spread Tecnologia
+### 🟩 Spread Tecnologia  
 ![Spread](https://img.shields.io/badge/Spread%20Tecnologia-SDET%20%7C%20Test%20Automation%20Architect-green?style=for-the-badge)
 
 📅 jan/2025 – mai/2025 · 🌍 Remoto  
 
-- Arquitetura de **frameworks de automação de testes**
+- Arquitetura de **frameworks de automação**
 - Liderança técnica em qualidade
 - Integração de testes automatizados em **CI/CD**
-- Definição de padrões, boas práticas e governança de testes
-- Aumento de cobertura e redução de retrabalho
+- Definição de padrões e boas práticas
+- Aumento de cobertura de testes
+- Redução de retrabalho e falhas em produção
 
 ---
 
-### 🟧 Pipoca Ágil (Voluntário)
+### 🟧 Pipoca Ágil (Voluntário)  
 ![PipocaAgil](https://img.shields.io/badge/Pipoca%20Ágil-QA%20Automation%20Engineer-orange?style=for-the-badge)
 
 📅 dez/2024 – mai/2025 · 🌍 Remoto  
@@ -80,19 +90,19 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Gest
 
 ---
 
-### ⚫ Thomson Reuters
+### ⚫ Thomson Reuters  
 ![ThomsonReuters](https://img.shields.io/badge/Thomson%20Reuters-Software%20Engineer-black?style=for-the-badge)
 
 📅 ago/2024 – nov/2024 · 🌍 Remoto  
 
 - Desenvolvimento backend com **Java + Spring Boot**
-- Criação de **APIs REST** para sistemas de folha de pagamento
+- Criação de **APIs REST**
 - Testes automatizados integrados ao desenvolvimento
-- Atuação em sistemas críticos e regulatórios
+- Sistemas críticos e regulatórios
 
 ---
 
-### 🟡 Mercado Livre
+### 🟡 Mercado Livre  
 ![MercadoLivre](https://img.shields.io/badge/Mercado%20Livre-Software%20Developer-yellow?style=for-the-badge)
 
 📅 out/2022 – fev/2024 · 🌍 Remoto  
@@ -124,9 +134,11 @@ Graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Gest
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIOCHELT-BR&layout=compact&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=MIOCHELT-BR&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIOCHELT-BR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIOCHELT-BR&layout=compact&theme=tokyonight&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MIOCHELT-BR&theme=tokyonight)
 
 </div>
 
