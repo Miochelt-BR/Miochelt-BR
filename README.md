@@ -3,7 +3,7 @@
 # 🚀 Thiago Michel Ariça  
 ### 🧪 Analista de QA • Automação de Testes • Analista em ServiceNow ATF
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Automação+como+C%C3%B3digo;Qualidade+Escalável;Especialista+em+ServiceNow+ATF;Mentalidade+Analítica+aplicada+a+QA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Automação+como+C%C3%B3digo;Qualidade+Escalável; Analista+em+ServiceNow+ATF;Mentalidade+Analítica+aplicada+a+QA" />
 
 <br/>
 
