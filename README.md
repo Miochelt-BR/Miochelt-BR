@@ -35,14 +35,33 @@ I am an **SDET / QA Automation Engineer** with a strong background in software e
 
 ---
 
-## 💼 Experiência Profissional | Experience
+🟦 EDX
 
-### 🟦 Capgemini
-**SDET / QA Automation Engineer**
-📅 jun/2025 – nov/2025
-* **Focus:** Software Project Management (SPM) & ITSM/ITOM flows.
-* **Tech:** Java automation, BDD, and Impact-based defect management.
+QA Engineer | ServiceNow ATF Specialist
+📅 2025 – Present
 
+Designing and executing automated test scenarios using ServiceNow ATF
+
+Validating ITSM workflows, catalog items, and Flow Designer automations
+
+Performing impersonation-based and end-to-end validation
+
+Building and maintaining regression test suites
+
+Supporting release validation and production stability
+
+🟩 Capgemini
+
+QA Engineer | ServiceNow ATF Automation
+📅 2025
+
+Automated validation of ITSM and SPM processes using ATF
+
+Regression suite implementation for ServiceNow releases
+
+Functional and impact-based testing
+
+Defect analysis and release quality support
 ### 🟩 Spread Tecnologia
 **SDET / Test Automation Architect**
 📅 jan/2025 – mai/2025
