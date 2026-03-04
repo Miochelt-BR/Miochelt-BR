@@ -1,9 +1,9 @@
 <div align="center">
 
 # 🚀 Thiago Michel Ariça  
-### 🧪 SDET • QA Automation Engineer • Especialista em ServiceNow ATF
+### 🧪 Analista de QA • Automação de Testes • Especialista em ServiceNow ATF
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Automação+como+C%C3%B3digo;Qualidade+Escalável;Especialista+em+ServiceNow+ATF;Mentalidade+de+Desenvolvedor+aplicada+a+QA" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Automação+como+C%C3%B3digo;Qualidade+Escalável;Especialista+em+ServiceNow+ATF;Mentalidade+Analítica+aplicada+a+QA" />
 
 <br/>
 
@@ -12,15 +12,15 @@
 
 <br/>
 
-🧠 **Mentalidade de Desenvolvedor** • ⚙️ **Arquitetura de Automação** • 🚀 **Engenharia de Qualidade Corporativa**
+🧠 **Mentalidade Analítica** • ⚙️ **Estratégia de Automação** • 🚀 **Qualidade Corporativa**
 
 </div>
 
 ---
 
-# 🧠 Sobre Mim — Visão de Engenharia SDET
+# 🧠 Sobre Mim — Visão de Qualidade
 
-Sou **SDET / QA Automation Engineer** com base sólida em engenharia de software e forte atuação em **ServiceNow ATF**.
+Sou **Analista de QA com foco em Automação**, com base sólida em engenharia de software e forte atuação em **ServiceNow ATF**.
 
 Especialista em:
 - Construção de suítes de regressão escaláveis  
@@ -28,7 +28,7 @@ Especialista em:
 - Validação de Workflows e Flow Designer  
 - Estratégias de testes orientadas a risco  
 
-Acredito que **qualidade não é etapa final — é parte da arquitetura.**
+Acredito que **qualidade não é etapa final — é parte do processo.**
 
 > 💡 *“Qualidade é construída, não inspecionada.”*
 
@@ -37,7 +37,7 @@ Acredito que **qualidade não é etapa final — é parte da arquitetura.**
 # 🧪 Experiência Profissional
 
 ## ⚫ EDX  
-**QA Engineer | Especialista em ServiceNow ATF**  
+**Analista de QA | Especialista em ServiceNow ATF**  
 📅 2026 – Atual  
 
 - Criação e execução de cenários automatizados com ServiceNow ATF  
@@ -49,7 +49,7 @@ Acredito que **qualidade não é etapa final — é parte da arquitetura.**
 ---
 
 ## 🟩 Capgemini  
-**QA Engineer | Automação ServiceNow ATF**  
+**Analista de QA | Automação ServiceNow ATF**  
 📅 2025  
 
 - Automação de validações ITSM e SPM  
@@ -60,12 +60,12 @@ Acredito que **qualidade não é etapa final — é parte da arquitetura.**
 ---
 
 ## 🟢 Spread Tecnologia  
-**SDET | Arquiteto de Automação de Testes**  
+**Analista de QA | Automação de Testes**  
 📅 2025  
 
-- Liderança técnica em estratégia de automação  
-- Integração de quality gates em pipelines CI/CD  
-- Arquitetura de testes escalável  
+- Apoio na definição de estratégia de automação  
+- Integração de testes em pipelines CI/CD  
+- Estruturação de testes automatizados  
 - Redução de defeitos em produção via automação orientada a risco  
 
 ---
@@ -74,9 +74,9 @@ Acredito que **qualidade não é etapa final — é parte da arquitetura.**
 **Engenheiro de Software (Java)**  
 📅 2022 – 2024  
 
-- Desenvolvimento de APIs REST escaláveis com Spring Boot  
-- Arquitetura limpa e foco em performance  
-- Transição estratégica para SDET com forte base em código  
+- Desenvolvimento de APIs REST com Spring Boot  
+- Aplicação de boas práticas de arquitetura  
+- Forte base técnica aplicada à área de qualidade  
 
 ---
 
@@ -100,7 +100,7 @@ Acredito que **qualidade não é etapa final — é parte da arquitetura.**
 
 ---
 
-## 🔄 DevOps & Engenharia de Qualidade
+## 🔄 DevOps & Qualidade
 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -108,28 +108,17 @@ Acredito que **qualidade não é etapa final — é parte da arquitetura.**
 
 ---
 
-# 📊 Filosofia de Engenharia
+# 📊 Filosofia de Qualidade
 
-✔ Automação é produto  
-✔ Código de teste é código de produção  
-✔ Estratégia guiada por risco  
-✔ Qualidade gera escalabilidade  
-
----
-
-# 🌐 Conecte-se Comigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Ariça-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-ari%C3%A7a/)
-[![Email](https://img.shields.io/badge/Email-thiagomichel164@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagomichel164@gmail.com)
-
-</div>
+✔ Automação é estratégia  
+✔ Testes geram confiança  
+✔ Decisão guiada por risco  
+✔ Qualidade sustenta crescimento  
 
 ---
 
 <div align="center">
 
-⭐ Construindo Qualidade. Engenhando Confiança. Entregando Resultado.
+⭐ Construindo Qualidade. Gerando Confiança. Entregando Resultado.
 
 </div>
