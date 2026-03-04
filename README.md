@@ -36,7 +36,7 @@ Acredito que **qualidade não é etapa final — é parte da arquitetura.**
 
 # 🧪 Experiência Profissional
 
-## 🟦 EDX  
+## ⚫ EDX  
 **QA Engineer | Especialista em ServiceNow ATF**  
 📅 2026 – Atual  
 
